@@ -1,5 +1,6 @@
-<h1 align="center">Hi there<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/> </h1>
-<h2 align="left"> My name is Amir Mohammad, Computer Engineering Student </h2>
+# 👋 Hi, I'm Amir Mohammd
+
+### Computer engineering Student
 
 ## I have some skills at :
 
