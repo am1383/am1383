@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,figma)](https://skillicons.dev)
 
 ## My tools : 
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,powershell)](https://skillicons.dev)
 
 ## Operating systems :
-<code><img height="40" src="https://cdn-icons-png.flaticon.com/512/732/732221.png"></code>
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
