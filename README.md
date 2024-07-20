@@ -10,4 +10,4 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,git,powershell)](https://skillicons.dev)
 
 ## Operating systems :
-[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
