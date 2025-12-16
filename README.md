@@ -15,4 +15,4 @@ aim to build reliable solutions that push technical boundaries and deliver real 
 [![My Skills](https://skillicons.dev/icons?i=laravel,dotnet)](https://skillicons.dev)
 
 ## My tools : 
-[![My Skills](https://skillicons.dev/icons?i=postman,vscode,github,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,docker)](https://skillicons.dev)
