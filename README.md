@@ -1,18 +1,40 @@
-# 👋 Hi, I'm Amir Mohammd
+# Hi, I'm Amir Mohammd
 
 ### Backend Engineer
 
-## About me
+Passionate Back-End Engineer with 4+ years of professional experience in building high-performance, scalable, and secure server-side applications.  
+Specialized in **Laravel** and **.NET**, with strong expertise in **API design**, **database architecture**, and **system optimization**.
 
-Passionate Back-End Engineer with 4+ years of professional experience crafting high-performance, scalable, and secure server-side
-applications. Specialized in Laravel and .NET, with deep expertise in API design, database architecture, and system optimization.
-Adept at leveraging Git, Docker, and modern DevOps tools to ensure smooth deployment and collaboration. Known for writing clean,
-elegant, and maintainable code that grows with the product. Driven by a love for clean architecture and continuous improvement, I
-aim to build reliable solutions that push technical boundaries and deliver real impact.
+I care deeply about **clean architecture**, **maintainable code**, and **performance-driven development**.  
+Always learning, always refactoring, always improving.
 
-## I have some skills at :
+---
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,dotnet)](https://skillicons.dev)
+## Tech Stack
 
-## My tools : 
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,docker)](https://skillicons.dev)
+### Backend & Databases
+[![Backend](https://skillicons.dev/icons?i=laravel,dotnet,php,mysql,mongodb,redis)](https://skillicons.dev)
+
+
+### DevOps & Tools
+[![Tools](https://skillicons.dev/icons?i=docker,git,github,vscode,postman)](https://skillicons.dev)
+
+---
+
+## What I Focus On
+- Designing **RESTful & scalable APIs**
+- Writing **clean, readable, and maintainable code**
+- Database performance & query optimization
+- Authentication & authorization (JWT, OAuth, Passport)
+- Dockerized development environments
+- Automated testing & code quality
+
+---
+
+## Core Principles
+- Clean Architecture & SOLID principles
+- Security-first mindset
+- Performance before premature complexity
+- Code that scales with the product
+
+---
