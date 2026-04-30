@@ -18,23 +18,3 @@ Always learning, always refactoring, always improving.
 
 ### DevOps & Tools
 [![Tools](https://skillicons.dev/icons?i=docker,git,github,vscode,postman)](https://skillicons.dev)
-
----
-
-## What I Focus On
-- Designing **RESTful & scalable APIs**
-- Writing **clean, readable, and maintainable code**
-- Database performance & query optimization
-- Authentication & authorization (JWT, OAuth, Passport)
-- Dockerized development environments
-- Automated testing & code quality
-
----
-
-## Core Principles
-- Clean Architecture & SOLID principles
-- Security-first mindset
-- Performance before premature complexity
-- Code that scales with the product
-
----
