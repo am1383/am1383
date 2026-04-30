@@ -17,4 +17,4 @@ Always learning, always refactoring, always improving.
 
 
 ### DevOps & Tools
-[![Tools](https://skillicons.dev/icons?i=docker,git,github,vscode,postman)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=docker,git,github,vscode)](https://skillicons.dev)
