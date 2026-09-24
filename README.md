@@ -2,12 +2,6 @@
 
 ### Backend Engineer
 
-Passionate Back-End Engineer with 4+ years of professional experience in building high-performance, scalable, and secure server-side applications.  
-Specialized in **Laravel** and **.NET**, with strong expertise in **API design**, **database architecture**, and **system optimization**.
-
-I care deeply about **clean architecture**, **maintainable code**, and **performance-driven development**.  
-Always learning, always refactoring, always improving.
-
 ---
 
 ## Tech Stack
